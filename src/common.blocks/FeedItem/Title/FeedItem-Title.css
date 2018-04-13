@@ -1,0 +1,11 @@
+.FeedItem-Title {
+  z-index: 10;
+}
+
+.FeedItem-Title .Title {
+  background-color: #fff;
+  border-bottom: 7px solid #fff;
+  width: 100%;
+  margin: 0;
+  overflow: hidden;
+}

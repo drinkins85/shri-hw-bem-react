@@ -1,0 +1,8 @@
+.FeedItem-Share_type_s {
+  display: block;
+  position: relative;
+  text-align: right;
+  right: 10px;
+  top: -28px;
+  z-index: 9;
+}

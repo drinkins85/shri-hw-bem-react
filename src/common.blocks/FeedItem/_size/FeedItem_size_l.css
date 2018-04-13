@@ -1,0 +1,6 @@
+.FeedItem_size_l {
+  grid-column: span 12;
+  grid-template-columns: 4fr 2fr;
+  grid-template-rows: auto;
+  grid-gap: 0 16px;
+}

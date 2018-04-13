@@ -1,0 +1,6 @@
+.NewsFeed {
+  grid-auto-flow: row dense;
+  grid-gap: 30px 15px;
+  justify-items: center;
+}
+

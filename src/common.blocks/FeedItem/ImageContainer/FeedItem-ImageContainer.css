@@ -1,0 +1,11 @@
+.FeedItem-ImageContainer {
+  overflow: hidden;
+  display: grid;
+  position: relative;
+  vertical-align: bottom;
+  border-radius: 5px;
+}
+
+.FeedItem-ImageContainer a {
+  margin-top: auto;
+}
