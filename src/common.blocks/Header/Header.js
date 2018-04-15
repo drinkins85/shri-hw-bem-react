@@ -8,7 +8,7 @@ export default decl({
   tag: 'header',
   content({ src }){
     return (<React.Fragment>
-              <Logo src="/media/img/logo.svg" link="#"></Logo>
+              <Logo src="media/img/logo.svg" link="#"></Logo>
             </React.Fragment>)
   }
 })
