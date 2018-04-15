@@ -19,11 +19,17 @@ module.exports = {
       layer: 'mobile',
       path: 'src/mobile.blocks',
       scheme: 'nested'
+    },
+    {
+      layer: 'tablet',
+      path: 'src/tablet.blocks',
+      scheme: 'nested'
     }
   ],
   sets: {
     desktop: 'common desktop',
-    mobile: 'common touch mobile'
+    mobile: 'common touch mobile',
+    tablet: 'common touch tablet'
   },
   modules: {
     'bem-tools': {
@@ -40,4 +46,4 @@ module.exports = {
       }
     }
   }
-}
+};
