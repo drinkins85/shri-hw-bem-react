@@ -1,0 +1,8 @@
+{
+  "main.css": "static/css/tablet.css",
+  "main.css.map": "static/css/tablet.css.map",
+  "main.js": "static/js/tablet.js",
+  "main.js.map": "static/js/tablet.js.map",
+  "static\\media\\YS Text-Regular.woff": "static/media/YS Text-Regular.e759fb47.woff",
+  "static\\media\\YS Text-Regular.woff2": "static/media/YS Text-Regular.f8883ab9.woff2"
+}
