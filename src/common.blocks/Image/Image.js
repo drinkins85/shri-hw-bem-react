@@ -11,6 +11,9 @@ export default decl({
     return { type };
   },
   attrs({ src, srcset }) {
-    return { src };
+    return {
+      src,
+      srcset: srcset.toString()
+    };
   }
 })

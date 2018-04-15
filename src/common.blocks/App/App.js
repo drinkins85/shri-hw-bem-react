@@ -16,7 +16,7 @@ export default decl({
   content({ news }) {
     return (
       <Bem block="Container">
-        <Header></Header>
+        <Header/>
         <NewsFeed news={news}/>
       </Bem>
     );
