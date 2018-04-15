@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'YS Text';
-  src: url('./YS Text-Bold.woff2') format('woff2');
-  src: url('./YS Text-Bold.woff') format('woff');
+  src: url('./YSText-Bold.woff2') format('woff2');
+  src: url('./YSText-Bold.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
