@@ -11,7 +11,7 @@ export default decl({
     return (
     <React.Fragment>
       {
-        news.map(item => <Item newsItem={ item } size={item.size} type={ item.image? '' : 'text'} />)
+        news.map((item, index) => <Item newsItem={ item } size={item.size} type={ item.image? '' : 'text'} key={index} />)
       }
     </React.Fragment>)
   }

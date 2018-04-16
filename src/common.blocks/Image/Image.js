@@ -13,7 +13,7 @@ export default decl({
   attrs({ src, srcset }) {
     return {
       src,
-      srcset: srcset.toString()
+      srcSet: srcset.toString()
     };
   }
 })
